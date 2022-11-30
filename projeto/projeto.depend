@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669827064 source:/home/edi/Documents/cProject/projeto/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
