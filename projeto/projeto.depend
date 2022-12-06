@@ -1,6 +1,17 @@
 # depslib dependency file v1.0
-1669827064 source:/home/edi/Documents/cProject/projeto/main.c
+1670257214 source:/home/edi/Documents/cProject/projeto/main.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
+	"gestaoComputadores.h"
+
+1670256781 /home/edi/Documents/cProject/projeto/funcoesGenericas.h
+
+1670257565 source:/home/edi/Documents/cProject/projeto/gestaoComputadores.c
+	<stdio.h>
+	"gestaoComputadores"
+
+1670257139 /home/edi/Documents/cProject/projeto/gestaoComputadores
+
+1670355485 /home/edi/Documents/cProject/projeto/gestaoComputadores.h
 
