@@ -16,8 +16,8 @@ typedef struct
 {
     string 'Residencias';
     string 'Campus1';
-    string 'Campues2';
     string 'Campues5'
+    string 'Campues2';
 
 }   tipoLocalizacao
 
